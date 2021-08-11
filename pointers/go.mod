@@ -1,4 +1,4 @@
-module github.com/cjohansen11/learn-go-with-tests.git
+module pointers
 
 go 1.16
 
